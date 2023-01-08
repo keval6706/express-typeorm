@@ -2,9 +2,9 @@
 
 ## For Run Project in Development
 
-**Make sure you have [Node.js](http://nodejs.org/) and the [yarn](https://yarnpkg.com/) installed.**
+**Make sure you have [Node.js](http://nodejs.org/) and the [Yarn](https://yarnpkg.com/) installed.**
 
-**Required Node Js Version : `v14.15.1`**
+**Required Node Js Version : `v16.18.1`**
 
 ```sh
 nvm install 
